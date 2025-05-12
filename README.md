@@ -1,5 +1,5 @@
 # main
-FIdel ROdriguez
+FIdel ROdriguez y Nicolas ROdriguez
 fidel.rodriguezet32@gmail.com
 projecto informatico
 4°1
